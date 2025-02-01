@@ -13,7 +13,7 @@ Exploring the world through simulations, algorithms, and scientific computing. I
 
 ---
 
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 
 <img align="left" alt="C" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/>
 <img align="left" alt="Cpp" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
@@ -30,7 +30,7 @@ Exploring the world through simulations, algorithms, and scientific computing. I
 
 #
 
-### 🎓 Education
+## 🎓 Education
 
 - **MSc in [Computational Science and Engineering](https://www.epfl.ch/education/master/programs/computational-science-and-engineering/), EPFL** 
 - **BSc in [Mechanical Engineering](https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/), EPFL**
