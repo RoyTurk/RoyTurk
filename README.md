@@ -20,6 +20,7 @@ Exploring the world through simulations, algorithms, and scientific computing. I
 <img align="left" alt="Python" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="MATLAB" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 <img align="left" alt="R" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+<img align="left" alt="Git" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Jupyter" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="LabVIEW" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg" />
 <img align="left" alt="CLion" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" />
@@ -31,3 +32,7 @@ Exploring the world through simulations, algorithms, and scientific computing. I
 
 ### 🎓 Education
 
+- **MSc in [Computational Science and Engineering](https://www.epfl.ch/education/master/programs/computational-science-and-engineering/), EPFL** 
+- **BSc in [Mechanical Engineering](https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/), EPFL**
+
+ #
